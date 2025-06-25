@@ -12,7 +12,7 @@ resources:
       trigger:
         branches:
           include:
-            - "*"  # Adjust based on your branch
+            - develop  # Adjust based on your branch
 
 jobs:
   - job: dependentJob
