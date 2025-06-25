@@ -13,7 +13,7 @@ resources:
         branches:
           include:
             - develop  # Adjust based on your branch
-            - new-develop
+            - develop-new
 
 jobs:
   - job: dependentJob
