@@ -15,7 +15,7 @@ resources:
             - develop  # Adjust based on your branch
             - develop-new
             - develop-new2
-            - develop-new3
+        
 
 jobs:
   - job: dependentJob
